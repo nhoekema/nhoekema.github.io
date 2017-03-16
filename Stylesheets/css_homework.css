@@ -1,0 +1,57 @@
+* {
+	font-family: 'PT Mono', monospace; 
+}
+
+body {
+	background-color: #f2f2f2
+}
+
+.jumbotron {
+	background-image: url("wedding.jpg");
+	background-repeat: no-repeat;
+	padding: 20%;
+	background-size: cover;
+	width: 100%;
+	margin-top: -60px;
+	background-attachment: fixed;
+	background-position: center -185px;
+}
+
+.intro {
+	margin-top: -47px;
+	background-color: #000000;
+	color: white;
+}
+
+.intro h3 {
+	text-align: center;
+	position: center;
+	font-family: 'Special Elite', cursive;
+}
+
+.features {
+	background-color: #f2f2f2;
+}
+
+.features p {
+	text-align: center;
+	color: #323232;
+	font-size: 1.2em;
+	padding-top: 10px;
+	background-color: #f2f2f2;
+}
+
+.me {
+	text-align: center;
+	color: white;
+	background-color: #000000;
+	background-size: cover;
+}
+
+.stats p {
+	text-align: center;
+	color: #323232;
+	font-size: 1.2em;
+	padding-top: 10px;
+	background-color: #f2f2f2;
+}
